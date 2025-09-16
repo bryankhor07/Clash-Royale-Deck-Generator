@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👑 Clash Royale Deck Generator
 
-## Getting Started
+A fun and interactive web app that generates **random Clash Royale decks** based on your chosen win condition, elixir constraints, and role-based balancing. Perfect for trying out new strategies, challenging friends, or escaping ladder boredom.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🎯 **Role-based deck generation**  
+  Ensures decks include essential roles like Win Condition, Big/Small Spells, Support, Cycle, Splash Damage, and more.
+  
+- ⚡ **Elixir control**  
+  Filter decks with a **maximum average elixir cap** so you don’t end up with a heavy, unplayable deck.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🃏 **Randomized and unique**  
+  Every deck generated is fresh, avoiding duplicates in a single deck.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🏷️ **Archetype detection**  
+  Decks are automatically classified into **Beatdown, Cycle, Siege, or Control**.
 
-## Learn More
+- 🎨 **Polished UI**  
+  Built with **React + Tailwind CSS**, featuring gradients and animations
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Frontend:** React, Tailwind CSS  
+- **Backend/Logic:** JavaScript deck generator algorithm  
+- **Data:** JSON-based card definitions  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚙️ Usage
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1 - Choose your Win Condition from the dropdown.
+
+2 - Set your Max Average Elixir.
+
+3 - Click Generate Deck to build a randomized deck.
+
+4 - Retry as many times as you like until you find a deck you love!
+

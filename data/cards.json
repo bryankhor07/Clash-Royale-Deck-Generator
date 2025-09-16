@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "name": "Hog Rider",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Win Condition",
+    "description": "Fast ground troop that targets buildings.",
+    "image": "https://www.deckshop.pro/img/c/Hog.png"
+  },
+  {
+    "id": 2,
+    "name": "Musketeer",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Ranged attacker with high single-target damage.",
+    "image": "https://www.deckshop.pro/img/c/Musk.png"
+  },
+  {
+    "id": 3,
+    "name": "Bomb Tower",
+    "elixir": 4,
+    "type": "Defensive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
+    "image": "https://www.deckshop.pro/img/c/BombTower.png"
+  },
+  {
+    "id": 4,
+    "name": "Barbarian Hut",
+    "elixir": 6,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
+    "image": "https://www.deckshop.pro/img/c/BarbHut.png"
+  },
+  {
+    "id": 5,
+    "name": "Arrows",
+    "elixir": 3,
+    "type": "Damaging Spells",
+    "rarity": "Common",
+    "role": "Small Spell",
+    "description": "Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Arrows.png"
+  },
+  {
+    "id": 6,
+    "name": "Barbarian Barrel",
+    "elixir": 2,
+    "type": "Spawners",
+    "rarity": "Epic",
+    "role": "Cycle",
+    "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
+    "image": "https://www.deckshop.pro/img/c/BarbBarrel.png"
+  },
+  {
+    "id": 7,
+    "name": "Knight",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
+    "image": "https://www.deckshop.pro/img/c/Knight.png"
+  },
+  {
+    "id": 8,
+    "name": "Archers",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
+    "image": "https://www.deckshop.pro/img/c/Archers.png"
+  },
+  {
+    "id": 9,
+    "name": "Goblins",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
+    "image": "https://www.deckshop.pro/img/c/Gobs.png"
+  },
+  {
+    "id": 10,
+    "name": "Giant",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Win Condition",
+    "description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
+    "image": "https://www.deckshop.pro/img/c/Giant.png"
+  },
+  {
+    "id": 11,
+    "name": "Wizard",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Splash Damage",
+    "description": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
+    "image": "https://www.deckshop.pro/img/c/Wiz.png"
+  },
+  {
+    "id": 12,
+    "name": "Mini P.E.K.K.A.",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "The arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
+    "image": "https://www.deckshop.pro/img/c/MP.png"
+  },
+  {
+    "id": 13,
+    "name": "Fireball",
+    "elixir": 4,
+    "type": "Damaging Spells",
+    "rarity": "Rare",
+    "role": "Big Spell",
+    "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Fireball.png"
+  },
+  {
+    "id": 14,
+    "name": "Baby Dragon",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "Flying troop that deals area damage. Baby Dragon is excellent on offense and defense.",
+    "image": "https://www.deckshop.pro/img/c/BabyD.png"
+  },
+  {
+    "id": 15,
+    "name": "Skeletons",
+    "elixir": 1,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Three fast, very weak melee fighters. Swarm your enemies with this pile of bones!",
+    "image": "https://www.deckshop.pro/img/c/Skellies.png"
+  },
+  {
+    "id": 16,
+    "name": "Valkyrie",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Splash Damage",
+    "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
+    "image": "https://www.deckshop.pro/img/c/Valk.png"
+  },
+  {
+    "id": 17,
+    "name": "Skeleton Army",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Summons an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
+    "image": "https://www.deckshop.pro/img/c/Skarmy.png"
+  },
+  {
+    "id": 18,
+    "name": "Bomber",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Splash Damage",
+    "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
+    "image": "https://www.deckshop.pro/img/c/Bomber.png"
+  },
+  {
+    "id": 19,
+    "name": "Minions",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
+    "image": "https://www.deckshop.pro/img/c/Minions.png"
+  },
+  {
+    "id": 20,
+    "name": "Barbarians",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
+    "image": "https://www.deckshop.pro/img/c/Barbs.png"
+  },
+  {
+    "id": 21,
+    "name": "Spear Goblins",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!? Oh wait, it was the Barbarians.",
+    "image": "https://www.deckshop.pro/img/c/SpearGobs.png"
+  },
+  {
+    "id": 22,
+    "name": "Minion Horde",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
+    "image": "https://www.deckshop.pro/img/c/Horde.png"
+  },
+  {
+    "id": 23,
+    "name": "Ice Wizard",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Splash Damage",
+    "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being dead, he's still much cooler than you.",
+    "image": "https://www.deckshop.pro/img/c/IceWiz.png"
+  },
+  {
+    "id": 24,
+    "name": "Royal Giant",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Win Condition",
+    "description": "Destroying enemy buildings with his massive range has never been easier! No sailor mouth, but he still packs a punch.",
+    "image": "https://www.deckshop.pro/img/c/RG.png"
+  },
+  {
+    "id": 25,
+    "name": "Guards",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
+    "image": "https://www.deckshop.pro/img/c/Guards.png"
+  },
+  {
+    "id": 26,
+    "name": "Princess",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Splash Damage",
+    "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
+    "image": "https://www.deckshop.pro/img/c/Princess.png"
+  },
+  {
+    "id": 27,
+    "name": "Dark Prince",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
+    "image": "https://www.deckshop.pro/img/c/DarkPrince.png"
+  },
+  {
+    "id": 28,
+    "name": "Three Musketeers",
+    "elixir": 9,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
+    "image": "https://www.deckshop.pro/img/c/3M.png"
+  },
+  {
+    "id": 29,
+    "name": "Prince",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Does 2x damage once he gets charging.",
+    "image": "https://www.deckshop.pro/img/c/Prince.png"
+  },
+  {
+    "id": 30,
+    "name": "Freeze",
+    "elixir": 4,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Big Spell",
+    "description": "Freezes troops and buildings, making them unable to move or attack. Deals a small amount of damage to frozen troops and buildings.",
+    "image": "https://www.deckshop.pro/img/c/Freeze.png"
+  },
+  {
+    "id": 31,
+    "name": "Lightning",
+    "elixir": 6,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Big Spell",
+    "description": "Strikes the highest hitpoint enemy troops and buildings in the target area with bolts of lightning! Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Lightning.png"
+  },
+  {
+    "id": 32,
+    "name": "Zap",
+    "elixir": 2,
+    "type": "Damaging Spells",
+    "rarity": "Common",
+    "role": "Small Spell",
+    "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Zap.png"
+  },
+  {
+    "id": 33,
+    "name": "Poison",
+    "elixir": 4,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Big Spell",
+    "description": "Covers the target area in a deadly poison cloud that deals damage over time and slows down troops. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Poison.png"
+  },
+  {
+    "id": 34,
+    "name": "Baby Dragon",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "Flying troop that deals area damage. Baby Dragon is excellent on offense and defense.",
+    "image": "https://www.deckshop.pro/img/c/BabyD.png"
+  },
+  {
+    "id": 35,
+    "name": "Inferno Tower",
+    "elixir": 5,
+    "type": "Defensive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Defensive building that shoots a focused beam, dealing massive damage to one target at a time. Damage increases over time!",
+    "image": "https://www.deckshop.pro/img/c/Inferno.png"
+  },
+  {
+    "id": 36,
+    "name": "Hog Rider",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Win Condition",
+    "description": "Fast ground troop that targets buildings.",
+    "image": "https://www.deckshop.pro/img/c/Hog.png"
+  },
+  {
+    "id": 37,
+    "name": "Rage",
+    "elixir": 2,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Small Spell",
+    "description": "Increases troops' movement speed and attack speed. Buildings attack faster and summon troops quicker too. Troop limit: 8",
+    "image": "https://www.deckshop.pro/img/c/Rage.png"
+  },
+  {
+    "id": 38,
+    "name": "Rocket",
+    "elixir": 6,
+    "type": "Damaging Spells",
+    "rarity": "Rare",
+    "role": "Big Spell",
+    "description": "Deals massive area damage. Looks really awesome doing it. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Rocket.png"
+  },
+  {
+    "id": 39,
+    "name": "Goblin Barrel",
+    "elixir": 3,
+    "type": "Spawners",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
+    "image": "https://www.deckshop.pro/img/c/Barrel.png"
+  },
+  {
+    "id": 40,
+    "name": "Tombstone",
+    "elixir": 3,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Defensive building that houses 4 Skeletons. When destroyed, spawns 4 Skeletons. Creepy!",
+    "image": "https://www.deckshop.pro/img/c/Tombstone.png"
+  },
+  {
+    "id": 41,
+    "name": "Balloon",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
+    "image": "https://www.deckshop.pro/img/c/Balloon.png"
+  },
+  {
+    "id": 42,
+    "name": "Witch",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
+    "image": "https://www.deckshop.pro/img/c/Witch.png"
+  },
+  {
+    "id": 43,
+    "name": "Cannon",
+    "elixir": 3,
+    "type": "Defensive Building",
+    "rarity": "Common",
+    "role": "Building",
+    "description": "Defensive building. Shoots cannonballs with a medium range.",
+    "image": "https://www.deckshop.pro/img/c/Cannon.png"
+  },
+  {
+    "id": 44,
+    "name": "Lightning",
+    "elixir": 6,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Big Spell",
+    "description": "Strikes the highest hitpoint enemy troops and buildings in the target area with bolts of lightning! Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Lightning.png"
+  },
+  {
+    "id": 45,
+    "name": "Fireball",
+    "elixir": 4,
+    "type": "Damaging Spells",
+    "rarity": "Rare",
+    "role": "Big Spell",
+    "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Fireball.png"
+  },
+  {
+    "id": 46,
+    "name": "Tesla",
+    "elixir": 4,
+    "type": "Defensive Building",
+    "rarity": "Common",
+    "role": "Building",
+    "description": "Defensive building that shocks enemies, and pops up from underground when enemies are near!",
+    "image": "https://www.deckshop.pro/img/c/Tesla.png"
+  },
+  {
+    "id": 47,
+    "name": "Mirror",
+    "elixir": 1,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Copies your last played card but costs 1 more Elixir.",
+    "image": "https://www.deckshop.pro/img/card_ed/Mirror.png"
+  },
+  {
+    "id": 48,
+    "name": "P.E.K.K.A",
+    "elixir": 7,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "A heavily armored, slow melee fighter. Swings from the hip but packs a huge punch.",
+    "image": "https://www.deckshop.pro/img/c/PEKKA.png"
+  },
+  {
+    "id": 49,
+    "name": "Lava Hound",
+    "elixir": 7,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "Flying tank that targets buildings and splits into many smaller, weaker menaces. Disappoints large crowds.",
+    "image": "https://www.deckshop.pro/img/c/Lava.png"
+  },
+  {
+    "id": 50,
+    "name": "Ice Spirit",
+    "elixir": 1,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
+    "image": "https://www.deckshop.pro/img/c/IceSpirit.png"
+  },
+  {
+    "id": 51,
+    "name": "Fire Spirit",
+    "elixir": 1,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Spawns one lively little Fire Spirit to incinerate enemies with its warm embrace.",
+    "image": "https://www.deckshop.pro/img/c/FireSpirit.png"
+  },
+  {
+    "id": 52,
+    "name": "The Log",
+    "elixir": 2,
+    "type": "Damaging Spells",
+    "rarity": "Legendary",
+    "role": "Cycle",
+    "description": "A spilt bottle of Rage turned an innocent tree trunk into a vengeful rolling log. May the Log be with you!",
+    "image": "https://www.deckshop.pro/img/c/Log.png"
+  },
+  {
+    "id": 53,
+    "name": "Miner",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
+    "image": "https://www.deckshop.pro/img/c/Miner.png"
+  },
+  {
+    "id": 54,
+    "name": "Bowler",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind.",
+    "image": "https://www.deckshop.pro/img/c/Bowler.png"
+  },
+  {
+    "id": 55,
+    "name": "Lumberjack",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
+    "image": "https://www.deckshop.pro/img/c/Lumber.png"
+  },
+  {
+    "id": 56,
+    "name": "Battle Ram",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Two Barbarians holding a big log charge at the nearest building, dealing big damage when they connect; then they go to town with their swords!",
+    "image": "https://www.deckshop.pro/img/c/Ram.png"
+  },
+  {
+    "id": 57,
+    "name": "Inferno Dragon",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "Shoots a focused beam that increases in damage over time. Wears a cute teddy bear backpack.",
+    "image": "https://www.deckshop.pro/img/c/InfernoD.png"
+  },
+  {
+    "id": 58,
+    "name": "Ice Golem",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Cycle",
+    "description": "Slow tank that deals death damage when destroyed. Takes the heat off of other troops!",
+    "image": "https://www.deckshop.pro/img/c/IceGolem.png"
+  },
+  {
+    "id": 59,
+    "name": "Mega Minion",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Flying, armored and powerful. What could be worse? Mega Minion attacks slow but deals massive damage.",
+    "image": "https://www.deckshop.pro/img/c/MM.png"
+  },
+  {
+    "id": 60,
+    "name": "Dart Goblin",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Runs fast, shoots far and chews bubblegum. How does he blow bubbles through his mask? Years of practice.",
+    "image": "https://www.deckshop.pro/img/c/DartGob.png"
+  },
+  {
+    "id": 61,
+    "name": "Goblin Gang",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "Deploys a gang of three Goblins and two Spear Goblins. It's like Minion Horde, but on the ground.",
+    "image": "https://www.deckshop.pro/img/c/GobGang.png"
+  },
+  {
+    "id": 62,
+    "name": "Electro Wizard",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "He lands with a \"POW!\", stuns nearby enemies and then zaps them with chain lightning for his attack!",
+    "image": "https://www.deckshop.pro/img/c/eWiz.png"
+  },
+  {
+    "id": 63,
+    "name": "Elite Barbarians",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "Spawns two very angry Barbarians with magnificent mustaches that have survived many battles.",
+    "image": "https://www.deckshop.pro/img/c/eBarbs.png"
+  },
+  {
+    "id": 64,
+    "name": "Hunter",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "The shorter the distance, the longer the damage. This Rare card shoots a short-range shotgun blast that can devastate enemies.",
+    "image": "https://www.deckshop.pro/img/c/Hunter.png"
+  },
+  {
+    "id": 65,
+    "name": "Executioner",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back.",
+    "image": "https://www.deckshop.pro/img/c/Exe.png"
+  },
+  {
+    "id": 66,
+    "name": "Tornado",
+    "elixir": 3,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Small Spell",
+    "description": "Drags enemies to its center while dealing damage over time. Doesn't affect buildings.",
+    "image": "https://www.deckshop.pro/img/c/Tornado.png"
+  },
+  {
+    "id": 67,
+    "name": "Clone",
+    "elixir": 3,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Small Spell",
+    "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch!",
+    "image": "https://www.deckshop.pro/img/c/Clone.png"
+  },
+  {
+    "id": 68,
+    "name": "Graveyard",
+    "elixir": 5,
+    "type": "Spawners",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "Surprise! It's a party. A Skeleton party. Spawns 20 Skeletons over 10 seconds anywhere in the Arena. Yep, anywhere.",
+    "image": "https://www.deckshop.pro/img/c/Graveyard.png"
+  },
+  {
+    "id": 69,
+    "name": "Sparky",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
+    "image": "https://www.deckshop.pro/img/c/Sparky.png"
+  },
+  {
+    "id": 70,
+    "name": "Bandit",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched.",
+    "image": "https://www.deckshop.pro/img/c/Bandit.png"
+  },
+  {
+    "id": 71,
+    "name": "Night Witch",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
+    "image": "https://www.deckshop.pro/img/c/NightWitch.png"
+  },
+  {
+    "id": 72,
+    "name": "Bats",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Spawns a handful of tiny flying creatures with big ears, big teeth, and big attitude.",
+    "image": "https://www.deckshop.pro/img/c/Bats.png"
+  },
+  {
+    "id": 73,
+    "name": "Heal Spirit",
+    "elixir": 1,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Spawns one lively little Spirit to heal your troops. Aww, he loves your troops more than you do.",
+    "image": "https://www.deckshop.pro/img/c/HealSpirit.png"
+  },
+  {
+    "id": 74,
+    "name": "Giant Snowball",
+    "elixir": 2,
+    "type": "Damaging Spells",
+    "rarity": "Common",
+    "role": "Small Spell",
+    "description": "Rolls through enemies, dealing damage and slowing them down. Knockback effects based on troop size.",
+    "image": "https://www.deckshop.pro/img/c/Snowball.png"
+  },
+  {
+    "id": 75,
+    "name": "Royal Hogs",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "The King's personal pets are loose! They love to chomp on apples and towers alike.",
+    "image": "https://www.deckshop.pro/img/c/RoyalHogs.png"
+  },
+  {
+    "id": 76,
+    "name": "Goblin Giant",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "He's a one-man clan! When he charges into battle, his Spear Goblins are right behind him.",
+    "image": "https://www.deckshop.pro/img/c/GobGiant.png"
+  },
+  {
+    "id": 77,
+    "name": "Fisherman",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "He pulls the strongest enemy towards him with his mighty fish hook, then starts swinging his mighty anchor.",
+    "image": "https://www.deckshop.pro/img/c/Fisherman.png"
+  },
+  {
+    "id": 78,
+    "name": "Magic Archer",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "He's a bit of a show-off, but his magic arrows pierce and deal less and less damage to each enemy hit.",
+    "image": "https://www.deckshop.pro/img/c/MagicArcher.png"
+  },
+  {
+    "id": 79,
+    "name": "Rascals",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Support",
+    "description": "One Rascal Boy and two Rascal Girls make a heap of trouble for the enemy. The Boy has a slingshot, and the Girls have swords.",
+    "image": "https://www.deckshop.pro/img/c/Rascals.png"
+  },
+  {
+    "id": 80,
+    "name": "Royal Ghost",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzap!",
+    "image": "https://www.deckshop.pro/img/c/Ghost.png"
+  },
+  {
+    "id": 81,
+    "name": "Ram Rider",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "A fierce warrior riding a big, bad ram. Deals area damage around her target and snares enemies with her bola.",
+    "image": "https://www.deckshop.pro/img/c/RamRider.png"
+  },
+  {
+    "id": 82,
+    "name": "Zappies",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Three unarmored zap machines that deal damage and stun their target. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Zappies.png"
+  },
+  {
+    "id": 83,
+    "name": "Cannon Cart",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "A cannon on wheels?! Bet they didn't teach you about this in history class. Once the shield is broken, it becomes a cannon building.",
+    "image": "https://www.deckshop.pro/img/c/CannonCart.png"
+  },
+  {
+    "id": 84,
+    "name": "Flying Machine",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "The Dwarves have mastered the art of flight... sorta. Shoots bullets that bounce between nearby enemies.",
+    "image": "https://www.deckshop.pro/img/c/FlyingMachine.png"
+  },
+  {
+    "id": 85,
+    "name": "Wall Breakers",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Cycle",
+    "description": "A pair of lightly protected Skeletons carrying a bomb. Who thought this was a good idea?!",
+    "image": "https://www.deckshop.pro/img/c/WallBreakers.png"
+  },
+  {
+    "id": 86,
+    "name": "Royal Delivery",
+    "elixir": 3,
+    "type": "Spawners",
+    "role": "Support",
+    "rarity": "Common",
+    "description": "Drops a Royal Recruit anywhere in the Arena, plus some damage! How did he get inside that box?!",
+    "image": "https://www.deckshop.pro/img/card_ed/RoyalDelivery.png"
+  },
+  {
+    "id": 87,
+    "name": "Battle Healer",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "A mystical fighter that heals nearby friendly troops, while damaging nearby enemies!",
+    "image": "https://www.deckshop.pro/img/c/BattleHealer.png"
+  },
+  {
+    "id": 88,
+    "name": "Skeleton Dragons",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Splash Damage",
+    "description": "Two undead dragons deal area damage from above! They're pretty fly... for dead guys.",
+    "image": "https://www.deckshop.pro/img/c/SkeletonDragons.png"
+  },
+  {
+    "id": 89,
+    "name": "Electro Dragon",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Splash Damage",
+    "description": "Attacks hit up to 3 enemies with a chain of lightning! Reduced damage to secondary targets.",
+    "image": "https://www.deckshop.pro/img/c/eDragon.png"
+  },
+  {
+    "id": 90,
+    "name": "Firecracker",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Splash Damage",
+    "description": "She's small, fast and packs a punch. Her cannonballs deal area damage from long range!",
+    "image": "https://www.deckshop.pro/img/c/Firecracker.png"
+  },
+  {
+    "id": 91,
+    "name": "Earthquake",
+    "elixir": 3,
+    "type": "Damaging Spells",
+    "rarity": "Rare",
+    "role": "Small Spell",
+    "description": "Deals massive damage to buildings over time and slows troops down. Don't look down!",
+    "image": "https://www.deckshop.pro/img/c/Earthquake.png"
+  },
+  {
+    "id": 92,
+    "name": "Goblin Cage",
+    "elixir": 4,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "A Goblin Brawler is locked up in this iron cage! Once broken, he becomes VERY angry!",
+    "image": "https://www.deckshop.pro/img/c/GoblinCage.png"
+  },
+  {
+    "id": 93,
+    "name": "Elixir Golem",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Support",
+    "description": "Tanky, slow and splits into two Elixir Golemites when destroyed! When they're destroyed, they give the enemy Elixir. It's like a Gift Card for mayhem!",
+    "image": "https://www.deckshop.pro/img/c/ElixirGolem.png"
+  },
+  {
+    "id": 94,
+    "name": "Electro Giant",
+    "elixir": 7,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "He deal damage just by being near enemies! His Zap Pack stuns and deals damage in a large area around him.",
+    "image": "https://www.deckshop.pro/img/c/ElectroGiant.png"
+  },
+  {
+    "id": 95,
+    "name": "Electro Spirit",
+    "elixir": 1,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "Spawns one lively little Electro Spirit to zap and stun enemies.",
+    "image": "https://www.deckshop.pro/img/c/ElectroSpirit.png"
+  },
+  {
+    "id": 96,
+    "name": "Mother Witch",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "Casts a spell that transforms enemy troops into Cursed Hogs! Cursed Hogs deal area damage when defeated.",
+    "image": "https://www.deckshop.pro/img/c/MotherWitch.png"
+  },
+  {
+    "id": 97,
+    "name": "Goblin Drill",
+    "elixir": 4,
+    "type": "Passive Building",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Tunnel anywhere and drill up, dealing damage! Then spawn Goblins behind enemy lines.",
+    "image": "https://www.deckshop.pro/img/c/GoblinDrill.png"
+  },
+  {
+    "id": 98,
+    "name": "Golden Knight",
+    "elixir": 4,
+    "type": "Champion",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "A master swordsman with the ability to dash through enemies, dealing damage along the way.",
+    "image": "https://www.deckshop.pro/img/c/GoldenKnight.png"
+  },
+  {
+    "id": 99,
+    "name": "Archer Queen",
+    "elixir": 5,
+    "type": "Champion",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "The Archer Queen summons a handful of Archers to fight, and while ability is active, she goes invisible!",
+    "image": "https://www.deckshop.pro/img/c/ArcherQueen.png"
+  },
+  {
+    "id": 100,
+    "name": "Skeleton King",
+    "elixir": 4,
+    "type": "Champion",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "The Skeleton King summons an army of Skeletons to fight by his side! Spooky!",
+    "image": "https://www.deckshop.pro/img/c/SkeletonKing.png"
+  },
+  {
+    "id": 101,
+    "name": "Royal Recruits",
+    "elixir": 7,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Win Condition",
+    "description": "Deploys six mini soldiers across the arena to defend or attack.",
+    "image": "https://www.deckshop.pro/img/c/RoyalRecruits.png"
+  },
+  {
+    "id": 102,
+    "name": "Furnace",
+    "elixir": 4,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Spawns Fire Spirits periodically to attack enemy troops and buildings.",
+    "image": "https://www.deckshop.pro/img/c/Furnace.png"
+  },
+  {
+    "id": 103,
+    "name": "Mega Knight",
+    "elixir": 7,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Win Condition",
+    "description": "Jumps into battle and deals massive area damage on landing.",
+    "image": "https://www.deckshop.pro/img/c/MegaKnight.png"
+  },
+  {
+    "id": 104,
+    "name": "Skeleton Barrel",
+    "elixir": 3,
+    "type": "Spawners",
+    "rarity": "Epic",
+    "role": "Support",
+    "description": "Floats in the air and drops Skeletons on enemy targets.",
+    "image": "https://www.deckshop.pro/img/c/SkellyBarrel.png"
+  },
+  {
+    "id": 105,
+    "name": "Mortar",
+    "elixir": 4,
+    "type": "Defensive Building",
+    "rarity": "Common",
+    "role": "Win Condition",
+    "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get very close!",
+    "image": "https://www.deckshop.pro/img/c/Mortar.png"
+  },
+  {
+    "id": 106,
+    "name": "X-Bow",
+    "elixir": 6,
+    "type": "Defensive Building",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
+    "image": "https://www.deckshop.pro/img/c/XBow.png"
+  },
+  {
+    "id": 107,
+    "name": "Elixir Collector",
+    "elixir": 6,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
+    "image": "https://www.deckshop.pro/img/c/Pump.png"
+  },
+  {
+    "id": 108,
+    "name": "Goblin Hut",
+    "elixir": 4,
+    "type": "Passive Building",
+    "rarity": "Rare",
+    "role": "Building",
+    "description": "Defensive building that spawns Spear Goblins when enemies are in range. Don't look inside... you don't want to see how they're made.",
+    "image": "https://www.deckshop.pro/img/c/GobHut.png"
+  },
+  {
+    "id": 109,
+    "name": "Phoenix",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Support",
+    "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability. Being born again is tiring, so a hatched Phoenix will have slightly less Hitpoints and Damage (80% of its total).",
+    "image": "https://www.deckshop.pro/img/c/Phoenix.png"
+  },
+  {
+    "id": 110,
+    "name": "Goblin Curse",
+    "elixir": 2,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Small Spell",
+    "description": "And thrice were their afflictions... nixed, vexed, and hexed! Enemy troops in the area will receive extra damage from attacks and become Goblins when destroyed. Deals damage to enemies over time.",
+    "image": "https://www.deckshop.pro/img/c/GoblinCurse.png"
+  },
+  {
+    "id": 111,
+    "name": "Void",
+    "elixir": 3,
+    "type": "Damaging Spells",
+    "rarity": "Epic",
+    "role": "Small Spell",
+    "description": "Creates a field of dark magic damaging all enemy troop and buildings within. More damage is dealt when fewer targets are on its area. Reduced damage to Crown Towers.",
+    "image": "https://www.deckshop.pro/img/c/Void.png"
+  },
+  {
+    "id": 112,
+    "name": "Little Prince",
+    "elixir": 3,
+    "type": "Troop",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "Who let their nephew into the Arena?! This mischievous Royal gains Hit Speed when firing, as long as he stands still! He may look weak, but he's always being watched over from afar...",
+    "image": "https://www.deckshop.pro/img/c/LittlePrince.png"
+  },
+  {
+    "id": 113,
+    "name": "Suspicious Bush",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Cycle",
+    "description": "This invisible bush skulks towards the nearest building. Sus. If Suspicious Bush reaches its target or gets destroyed by a spell, it surprises the enemy with Bush Goblins!",
+    "image": "https://www.deckshop.pro/img/c/SuspiciousBush.png"
+  },
+  {
+    "id": 114,
+    "name": "Berserker",
+    "elixir": 2,
+    "type": "Troop",
+    "rarity": "Common",
+    "role": "Cycle",
+    "description": "It's surprising how often she needs her axes sharpened, but then again, if you liked hitting things as fast as her, so would you.",
+    "image": "https://www.deckshop.pro/img/c/Berserker.png"
+  },
+  {
+    "id": 115,
+    "name": "Boss Bandit",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Champion",
+    "role": "Win Condition",
+    "description": "The boss of the Forest Gang finally shows her face...kind of. Boss Bandit dashes to her targets and is invulnerable while dashing. When things get tough, her pair of grenades are at the ready.",
+    "image": "https://www.deckshop.pro/img/c/BossBandit.png"
+  },
+  {
+    "id": 116,
+    "name": "Giant Skeleton",
+    "elixir": 6,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
+    "image": "https://www.deckshop.pro/img/c/GiantSkelly.png"
+  },
+  {
+    "id": 117,
+    "name": "Goblin Demolisher",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Rare",
+    "role": "Splash Damage",
+    "description": "Boom goes dynamite! Goblin Demolisher deals area damage and explodes on death. At low health, he charges towards the nearest building.",
+    "image": "https://www.deckshop.pro/img/c/GoblinDemolisher.png"
+  },
+  {
+    "id": 118,
+    "name": "Goblin Machine",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Legendary",
+    "role": "Splash Damage",
+    "description": "Goblin Machine has two arms for melee and one big rocket for faraway targets. Who let a baby drive this thing?",
+    "image": "https://www.deckshop.pro/img/c/GoblinMachine.png"
+  },
+  {
+    "id": 119,
+    "name": "Goblinstein",
+    "elixir": 5,
+    "type": "Troop",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "It’s ALIVE! Monster lumbers towards enemy buildings while Doctor waits to spring the trap. At the press of a button, Doctor electrifies the link between himself and Monster, frying nearby enemies!",
+    "image": "https://www.deckshop.pro/img/c/Goblinstein.png"
+  },
+  {
+    "id": 120,
+    "name": "Mighty Miner",
+    "elixir": 4,
+    "type": "Troop",
+    "rarity": "Champion",
+    "role": "Support",
+    "description": "Walk softly... and carry a big drill! This Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans. This makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
+    "image": "https://www.deckshop.pro/img/c/MightyMiner.png"
+  },
+  {
+    "id": 121,
+    "name": "Golem",
+    "elixir": 8,
+    "type": "Troop",
+    "rarity": "Epic",
+    "role": "Win Condition",
+    "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
+    "image": "https://www.deckshop.pro/img/c/Golem.png"
+  }
+]

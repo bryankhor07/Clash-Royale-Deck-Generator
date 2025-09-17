@@ -50,8 +50,9 @@ function tryGenerate(winConCard, maxElixir, attempts = 20) {
         "Electro Giant",
         "Mega Knight",
         "Giant Skeleton",
+        "Boss Bandit",
       ];
-      const cycle = ["Hog Rider", "Miner", "Ram Rider", "Bandit"];
+      const cycle = ["Hog Rider", "Miner", "Ram Rider", "Goblin Barrel"];
       const siege = ["X-Bow", "Mortar"];
       const control = [
         "Royal Giant",

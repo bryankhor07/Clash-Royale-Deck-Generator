@@ -35,6 +35,16 @@ export default function Filters({ onApply }) {
     "Golem",
     "P.E.K.K.A",
     "Balloon",
+    "Goblin Barrel",
+    "Mortar",
+    "Sparky",
+    "Goblin Giant",
+    "Electro Giant",
+    "Mega Knight",
+    "Giant Skeleton",
+    "Ram Rider",
+    "Royal Recruits",
+    "Boss Bandit",
   ];
 
   return (
@@ -93,6 +103,16 @@ export default function Filters({ onApply }) {
                   {condition === "Golem" && "🪨"}
                   {condition === "P.E.K.K.A" && "🤖"}
                   {condition === "Balloon" && "🎈"}
+                  {condition === "Goblin Barrel" && "🪣"}
+                  {condition === "Mortar" && "🛡️"}
+                  {condition === "Sparky" && "⚡"}
+                  {condition === "Goblin Giant" && "👹"}
+                  {condition === "Electro Giant" && "🔋"}
+                  {condition === "Mega Knight" && "🛡️"}
+                  {condition === "Giant Skeleton" && "☠️"}
+                  {condition === "Ram Rider" && "🐏"}
+                  {condition === "Royal Recruits" && "🪖"}
+                  {condition === "Boss Bandit" && "🎭"}
                   {" " + condition}
                 </option>
               ))}

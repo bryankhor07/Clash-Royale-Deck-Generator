@@ -53,11 +53,11 @@ export default function DeckList({
           {/* Deck Stats */}
           <div className="grid grid-cols-2 gap-6 max-w-md mx-auto mb-4">
             <div className="text-center">
-              <div className="text-3xl font-bold">{avgElixir}</div>
+              <div className="text-3xl font-bold mb-2">{avgElixir}</div>
               <div className="text-sm opacity-90">⚡ Avg Elixir</div>
             </div>
             <div className="text-center">
-              <div className="text-xl font-bold">{archetype}</div>
+              <div className="text-3xl font-bold mb-2">{archetype}</div>
               <div className="text-sm opacity-90">🎯 Archetype</div>
             </div>
           </div>

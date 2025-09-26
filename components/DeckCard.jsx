@@ -1,6 +1,9 @@
+import Image from "next/image";
+
 export default function DeckCard({ card, index }) {
   const getRarityColor = (rarity) => {
-    switch (rarity) {
+    const r = String(rarity).toLowerCase();
+    switch (r) {
       case "common":
         return "from-gray-400 to-gray-600";
       case "rare":
@@ -45,9 +48,11 @@ export default function DeckCard({ card, index }) {
 
         {/* Card image */}
         <div className="relative mb-3">
-          <img
+          <Image
             src={card.image}
-            alt={card.name}
+            alt={`${card.name} card, ${card.elixir} elixir, ${card.role}`}
+            width={256}
+            height={96}
             className="w-full h-24 object-contain rounded-lg group-hover:scale-110 transition-transform duration-300"
           />
         </div>

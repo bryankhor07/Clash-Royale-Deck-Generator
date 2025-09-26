@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-export default function Filters({ onApply }) {
+export default function Filters({ onApply, onLoadingChange }) {
   const [winCondition, setWinCondition] = useState("");
   const [maxElixir, setMaxElixir] = useState(4.5);
   const [isGenerating, setIsGenerating] = useState(false);
@@ -11,16 +11,18 @@ export default function Filters({ onApply }) {
     e.preventDefault();
 
     if (!winCondition) {
-      alert("Select your champion");
+      alert("Select your win condition");
       return;
     }
 
     setIsGenerating(true);
+    onLoadingChange?.(true);
 
     // Simulate loading
     setTimeout(() => {
       onApply({ winCondition, maxElixir });
       setIsGenerating(false);
+      onLoadingChange?.(false);
     }, 1500);
   };
 
@@ -69,13 +71,15 @@ export default function Filters({ onApply }) {
 
         {/* Win Condition */}
         <div className="mb-6">
-          <label className="block font-semibold text-gray-700 mb-3">
+          <label htmlFor="winConditionSelect" className="block font-semibold text-gray-700 mb-3">
             🏆 Win Condition
           </label>
           <div className="relative">
             <select
+              id="winConditionSelect"
               value={winCondition}
               onChange={(e) => setWinCondition(e.target.value)}
+              disabled={isGenerating}
               className="w-full p-4 pr-12 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 transition-all bg-white/90 backdrop-blur-sm text-gray-800 font-medium shadow-sm hover:shadow-md appearance-none cursor-pointer"
               style={{
                 backgroundImage: `url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e")`,
@@ -148,18 +152,20 @@ export default function Filters({ onApply }) {
 
         {/* Max Elixir with visual indicator */}
         <div className="mb-8">
-          <label className="block font-semibold text-gray-700 mb-3">
+          <label htmlFor="maxElixirRange" className="block font-semibold text-gray-700 mb-3">
             ⚡ Max Average Elixir:{" "}
             <span className="text-purple-600">{maxElixir}</span>
           </label>
           <div className="relative">
             <input
               type="range"
+              id="maxElixirRange"
               value={maxElixir}
               onChange={(e) => setMaxElixir(parseFloat(e.target.value))}
               min="2.0"
               max="6.0"
               step="0.1"
+              disabled={isGenerating}
               className="w-full h-2 bg-gradient-to-r from-green-400 via-yellow-400 to-red-400 rounded-lg appearance-none cursor-pointer"
               style={{
                 background: `linear-gradient(to right, #10b981 0%, #f59e0b 50%, #ef4444 100%)`,
@@ -174,6 +180,10 @@ export default function Filters({ onApply }) {
         </div>
 
         {/* Generate Button */}
+        <div className="sr-only" aria-live="polite">
+          {isGenerating ? "Generating deck..." : "Ready"}
+        </div>
+
         <button
           type="submit"
           disabled={isGenerating}

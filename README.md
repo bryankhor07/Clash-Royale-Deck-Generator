@@ -2,6 +2,8 @@
 
 A fun and interactive web app that generates **random Clash Royale decks** based on your chosen win condition, elixir constraints, and role-based balancing. Perfect for trying out new strategies, challenging friends, or escaping ladder boredom.
 
+Live demo: https://clash-royale-deck-generator.vercel.app/
+
 ---
 
 ## ✨ Features

@@ -7,7 +7,7 @@
     "rarity": "Rare",
     "role": "Win Condition",
     "description": "Fast ground troop that targets buildings.",
-    "image": "https://www.deckshop.pro/img/c/Hog.png"
+    "image": "/cards/HogRider.webp"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Ranged attacker with high single-target damage.",
-    "image": "https://www.deckshop.pro/img/c/Musk.png"
+    "image": "/cards/Musketeer.webp"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
-    "image": "https://www.deckshop.pro/img/c/BombTower.png"
+    "image": "/cards/BombTower.webp"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Building that periodically spawns Barbarians to fight the enemy. Time to make the Barbarians!",
-    "image": "https://www.deckshop.pro/img/c/BarbHut.png"
+    "image": "/cards/BarbarianHut.png"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "rarity": "Common",
     "role": "Small Spell",
     "description": "Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Arrows.png"
+    "image": "/cards/Arrows.png"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "rarity": "Epic",
     "role": "Cycle",
     "description": "It rolls over and damages anything in its path, then breaks open and out pops a Barbarian! How did he get inside?!",
-    "image": "https://www.deckshop.pro/img/c/BarbBarrel.png"
+    "image": "/cards/BarbarianBarrel.webp"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
-    "image": "https://www.deckshop.pro/img/c/Knight.png"
+    "image": "/cards/Knight.png"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
-    "image": "https://www.deckshop.pro/img/c/Archers.png"
+    "image": "/cards/Archers.png"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Three fast, unarmored melee attackers. Small, fast, green and mean!",
-    "image": "https://www.deckshop.pro/img/c/Gobs.png"
+    "image": "/cards/Goblins.webp"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "rarity": "Rare",
     "role": "Win Condition",
     "description": "Slow but durable, only attacks buildings. A real one-man wrecking crew!",
-    "image": "https://www.deckshop.pro/img/c/Giant.png"
+    "image": "/cards/Giant.png"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "rarity": "Rare",
     "role": "Splash Damage",
     "description": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
-    "image": "https://www.deckshop.pro/img/c/Wiz.png"
+    "image": "/cards/Wizard.webp"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "The arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
-    "image": "https://www.deckshop.pro/img/c/MP.png"
+    "image": "/cards/MiniPekka.png"
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "rarity": "Rare",
     "role": "Big Spell",
     "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Fireball.png"
+    "image": "/cards/Fireball.webp"
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "Flying troop that deals area damage. Baby Dragon is excellent on offense and defense.",
-    "image": "https://www.deckshop.pro/img/c/BabyD.png"
+    "image": "/cards/BabyDragon.png"
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Three fast, very weak melee fighters. Swarm your enemies with this pile of bones!",
-    "image": "https://www.deckshop.pro/img/c/Skellies.png"
+    "image": "/cards/Skeletons.webp"
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "rarity": "Rare",
     "role": "Splash Damage",
     "description": "Tough melee fighter, deals area damage around her. Swarm or horde, no problem! She can take them all out with a few spins.",
-    "image": "https://www.deckshop.pro/img/c/Valk.png"
+    "image": "/cards/Valkyrie.webp"
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Summons an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
-    "image": "https://www.deckshop.pro/img/c/Skarmy.png"
+    "image": "/cards/SkeletonArmy.png"
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "rarity": "Common",
     "role": "Splash Damage",
     "description": "Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.",
-    "image": "https://www.deckshop.pro/img/c/Bomber.png"
+    "image": "/cards/Bomber.webp"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
-    "image": "https://www.deckshop.pro/img/c/Minions.png"
+    "image": "/cards/Minions.webp"
   },
   {
     "id": 20,
@@ -197,7 +197,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
-    "image": "https://www.deckshop.pro/img/c/Barbs.png"
+    "image": "/cards/Barbarians.webp"
   },
   {
     "id": 21,
@@ -207,7 +207,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Three unarmored ranged attackers. Who the heck taught these guys to throw spears!? Oh wait, it was the Barbarians.",
-    "image": "https://www.deckshop.pro/img/c/SpearGobs.png"
+    "image": "/cards/SpearGoblins.png"
   },
   {
     "id": 22,
@@ -217,7 +217,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "Six fast, unarmored flying attackers. Three's a crowd, six is a horde!",
-    "image": "https://www.deckshop.pro/img/c/Horde.png"
+    "image": "/cards/MinionHorde.png"
   },
   {
     "id": 23,
@@ -227,7 +227,7 @@
     "rarity": "Legendary",
     "role": "Splash Damage",
     "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being dead, he's still much cooler than you.",
-    "image": "https://www.deckshop.pro/img/c/IceWiz.png"
+    "image": "/cards/IceWizard.webp"
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "rarity": "Common",
     "role": "Win Condition",
     "description": "Destroying enemy buildings with his massive range has never been easier! No sailor mouth, but he still packs a punch.",
-    "image": "https://www.deckshop.pro/img/c/RG.png"
+    "image": "/cards/RoyalGiant.png"
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
-    "image": "https://www.deckshop.pro/img/c/Guards.png"
+    "image": "/cards/Guards.png"
   },
   {
     "id": 26,
@@ -257,7 +257,7 @@
     "rarity": "Legendary",
     "role": "Splash Damage",
     "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
-    "image": "https://www.deckshop.pro/img/c/Princess.png"
+    "image": "/cards/Princess.webp"
   },
   {
     "id": 27,
@@ -267,7 +267,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
-    "image": "https://www.deckshop.pro/img/c/DarkPrince.png"
+    "image": "/cards/DarkPrince.png"
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
-    "image": "https://www.deckshop.pro/img/c/3M.png"
+    "image": "/cards/ThreeMusketeers.webp"
   },
   {
     "id": 29,
@@ -287,7 +287,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Does 2x damage once he gets charging.",
-    "image": "https://www.deckshop.pro/img/c/Prince.png"
+    "image": "/cards/Prince.webp"
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "rarity": "Epic",
     "role": "Big Spell",
     "description": "Freezes troops and buildings, making them unable to move or attack. Deals a small amount of damage to frozen troops and buildings.",
-    "image": "https://www.deckshop.pro/img/c/Freeze.png"
+    "image": "/cards/Freeze.webp"
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "rarity": "Epic",
     "role": "Big Spell",
     "description": "Strikes the highest hitpoint enemy troops and buildings in the target area with bolts of lightning! Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Lightning.png"
+    "image": "/cards/Lightning.webp"
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "rarity": "Common",
     "role": "Small Spell",
     "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Zap.png"
+    "image": "/cards/Zap.png"
   },
   {
     "id": 33,
@@ -327,7 +327,7 @@
     "rarity": "Epic",
     "role": "Big Spell",
     "description": "Covers the target area in a deadly poison cloud that deals damage over time and slows down troops. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Poison.png"
+    "image": "/cards/Poison.webp"
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "Flying troop that deals area damage. Baby Dragon is excellent on offense and defense.",
-    "image": "https://www.deckshop.pro/img/c/BabyD.png"
+    "image": "/cards/BabyDragon.png"
   },
   {
     "id": 35,
@@ -347,7 +347,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Defensive building that shoots a focused beam, dealing massive damage to one target at a time. Damage increases over time!",
-    "image": "https://www.deckshop.pro/img/c/Inferno.png"
+    "image": "/cards/InfernoTower.webp"
   },
   {
     "id": 36,
@@ -357,7 +357,7 @@
     "rarity": "Rare",
     "role": "Win Condition",
     "description": "Fast ground troop that targets buildings.",
-    "image": "https://www.deckshop.pro/img/c/Hog.png"
+    "image": "/cards/HogRider.webp"
   },
   {
     "id": 37,
@@ -367,7 +367,7 @@
     "rarity": "Epic",
     "role": "Small Spell",
     "description": "Increases troops' movement speed and attack speed. Buildings attack faster and summon troops quicker too. Troop limit: 8",
-    "image": "https://www.deckshop.pro/img/c/Rage.png"
+    "image": "/cards/Rage.webp"
   },
   {
     "id": 38,
@@ -377,7 +377,7 @@
     "rarity": "Rare",
     "role": "Big Spell",
     "description": "Deals massive area damage. Looks really awesome doing it. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Rocket.png"
+    "image": "/cards/Rocket.webp"
   },
   {
     "id": 39,
@@ -387,7 +387,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
-    "image": "https://www.deckshop.pro/img/c/Barrel.png"
+    "image": "/cards/GoblinBarrel.webp"
   },
   {
     "id": 40,
@@ -397,7 +397,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Defensive building that houses 4 Skeletons. When destroyed, spawns 4 Skeletons. Creepy!",
-    "image": "https://www.deckshop.pro/img/c/Tombstone.png"
+    "image": "/cards/Tombstone.webp"
   },
   {
     "id": 41,
@@ -407,7 +407,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
-    "image": "https://www.deckshop.pro/img/c/Balloon.png"
+    "image": "/cards/Balloon.webp"
   },
   {
     "id": 42,
@@ -417,7 +417,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
-    "image": "https://www.deckshop.pro/img/c/Witch.png"
+    "image": "/cards/Witch.png"
   },
   {
     "id": 43,
@@ -427,7 +427,7 @@
     "rarity": "Common",
     "role": "Building",
     "description": "Defensive building. Shoots cannonballs with a medium range.",
-    "image": "https://www.deckshop.pro/img/c/Cannon.png"
+    "image": "/cards/Cannon.webp"
   },
   {
     "id": 44,
@@ -437,7 +437,7 @@
     "rarity": "Epic",
     "role": "Big Spell",
     "description": "Strikes the highest hitpoint enemy troops and buildings in the target area with bolts of lightning! Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Lightning.png"
+    "image": "/cards/Lightning.webp"
   },
   {
     "id": 45,
@@ -447,7 +447,7 @@
     "rarity": "Rare",
     "role": "Big Spell",
     "description": "Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Fireball.png"
+    "image": "/cards/Fireball.webp"
   },
   {
     "id": 46,
@@ -457,7 +457,7 @@
     "rarity": "Common",
     "role": "Building",
     "description": "Defensive building that shocks enemies, and pops up from underground when enemies are near!",
-    "image": "https://www.deckshop.pro/img/c/Tesla.png"
+    "image": "/cards/Tesla.webp"
   },
   {
     "id": 47,
@@ -467,7 +467,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Copies your last played card but costs 1 more Elixir.",
-    "image": "https://www.deckshop.pro/img/card_ed/Mirror.png"
+    "image": "/cards/Mirror.webp"
   },
   {
     "id": 48,
@@ -477,7 +477,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "A heavily armored, slow melee fighter. Swings from the hip but packs a huge punch.",
-    "image": "https://www.deckshop.pro/img/c/PEKKA.png"
+    "image": "/cards/Pekka.webp"
   },
   {
     "id": 49,
@@ -487,7 +487,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "Flying tank that targets buildings and splits into many smaller, weaker menaces. Disappoints large crowds.",
-    "image": "https://www.deckshop.pro/img/c/Lava.png"
+    "image": "/cards/LavaHound.webp"
   },
   {
     "id": 50,
@@ -497,7 +497,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
-    "image": "https://www.deckshop.pro/img/c/IceSpirit.png"
+    "image": "/cards/IceSpirit.webp"
   },
   {
     "id": 51,
@@ -507,7 +507,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Spawns one lively little Fire Spirit to incinerate enemies with its warm embrace.",
-    "image": "https://www.deckshop.pro/img/c/FireSpirit.png"
+    "image": "/cards/FireSpirit.png"
   },
   {
     "id": 52,
@@ -517,7 +517,7 @@
     "rarity": "Legendary",
     "role": "Cycle",
     "description": "A spilt bottle of Rage turned an innocent tree trunk into a vengeful rolling log. May the Log be with you!",
-    "image": "https://www.deckshop.pro/img/c/Log.png"
+    "image": "/cards/TheLog.webp"
   },
   {
     "id": 53,
@@ -527,7 +527,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
-    "image": "https://www.deckshop.pro/img/c/Miner.png"
+    "image": "/cards/Miner.webp"
   },
   {
     "id": 54,
@@ -537,7 +537,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind.",
-    "image": "https://www.deckshop.pro/img/c/Bowler.png"
+    "image": "/cards/Bowler.webp"
   },
   {
     "id": 55,
@@ -547,7 +547,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he's defeated.",
-    "image": "https://www.deckshop.pro/img/c/Lumber.png"
+    "image": "/cards/Lumberjack.webp"
   },
   {
     "id": 56,
@@ -557,7 +557,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Two Barbarians holding a big log charge at the nearest building, dealing big damage when they connect; then they go to town with their swords!",
-    "image": "https://www.deckshop.pro/img/c/Ram.png"
+    "image": "/cards/BattleRam.webp"
   },
   {
     "id": 57,
@@ -567,7 +567,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "Shoots a focused beam that increases in damage over time. Wears a cute teddy bear backpack.",
-    "image": "https://www.deckshop.pro/img/c/InfernoD.png"
+    "image": "/cards/InfernoDragon.webp"
   },
   {
     "id": 58,
@@ -577,7 +577,7 @@
     "rarity": "Rare",
     "role": "Cycle",
     "description": "Slow tank that deals death damage when destroyed. Takes the heat off of other troops!",
-    "image": "https://www.deckshop.pro/img/c/IceGolem.png"
+    "image": "/cards/IceGolem.webp"
   },
   {
     "id": 59,
@@ -587,7 +587,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Flying, armored and powerful. What could be worse? Mega Minion attacks slow but deals massive damage.",
-    "image": "https://www.deckshop.pro/img/c/MM.png"
+    "image": "/cards/MegaMinion.png"
   },
   {
     "id": 60,
@@ -597,7 +597,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Runs fast, shoots far and chews bubblegum. How does he blow bubbles through his mask? Years of practice.",
-    "image": "https://www.deckshop.pro/img/c/DartGob.png"
+    "image": "/cards/DartGoblin.png"
   },
   {
     "id": 61,
@@ -607,7 +607,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "Deploys a gang of three Goblins and two Spear Goblins. It's like Minion Horde, but on the ground.",
-    "image": "https://www.deckshop.pro/img/c/GobGang.png"
+    "image": "/cards/GoblinGang.png"
   },
   {
     "id": 62,
@@ -617,7 +617,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "He lands with a \"POW!\", stuns nearby enemies and then zaps them with chain lightning for his attack!",
-    "image": "https://www.deckshop.pro/img/c/eWiz.png"
+    "image": "/cards/ElectroWizard.webp"
   },
   {
     "id": 63,
@@ -627,7 +627,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "Spawns two very angry Barbarians with magnificent mustaches that have survived many battles.",
-    "image": "https://www.deckshop.pro/img/c/eBarbs.png"
+    "image": "/cards/EliteBarbarians.png"
   },
   {
     "id": 64,
@@ -637,7 +637,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "The shorter the distance, the longer the damage. This Rare card shoots a short-range shotgun blast that can devastate enemies.",
-    "image": "https://www.deckshop.pro/img/c/Hunter.png"
+    "image": "/cards/Hunter.webp"
   },
   {
     "id": 65,
@@ -647,7 +647,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back.",
-    "image": "https://www.deckshop.pro/img/c/Exe.png"
+    "image": "/cards/Executioner.webp"
   },
   {
     "id": 66,
@@ -657,7 +657,7 @@
     "rarity": "Epic",
     "role": "Small Spell",
     "description": "Drags enemies to its center while dealing damage over time. Doesn't affect buildings.",
-    "image": "https://www.deckshop.pro/img/c/Tornado.png"
+    "image": "/cards/Tornado.webp"
   },
   {
     "id": 67,
@@ -667,7 +667,7 @@
     "rarity": "Epic",
     "role": "Small Spell",
     "description": "Duplicates all friendly troops in the target area. Cloned troops are fragile, but pack the same punch!",
-    "image": "https://www.deckshop.pro/img/c/Clone.png"
+    "image": "/cards/Clone.webp"
   },
   {
     "id": 68,
@@ -677,7 +677,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "Surprise! It's a party. A Skeleton party. Spawns 20 Skeletons over 10 seconds anywhere in the Arena. Yep, anywhere.",
-    "image": "https://www.deckshop.pro/img/c/Graveyard.png"
+    "image": "/cards/Graveyard.webp"
   },
   {
     "id": 69,
@@ -687,7 +687,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
-    "image": "https://www.deckshop.pro/img/c/Sparky.png"
+    "image": "/cards/Sparky.webp"
   },
   {
     "id": 70,
@@ -697,7 +697,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched.",
-    "image": "https://www.deckshop.pro/img/c/Bandit.png"
+    "image": "/cards/Bandit.webp"
   },
   {
     "id": 71,
@@ -707,7 +707,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "Summons Bats to do her bidding, even after death! If you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
-    "image": "https://www.deckshop.pro/img/c/NightWitch.png"
+    "image": "/cards/NightWitch.webp"
   },
   {
     "id": 72,
@@ -717,7 +717,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Spawns a handful of tiny flying creatures with big ears, big teeth, and big attitude.",
-    "image": "https://www.deckshop.pro/img/c/Bats.png"
+    "image": "/cards/Bats.webp"
   },
   {
     "id": 73,
@@ -727,7 +727,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Spawns one lively little Spirit to heal your troops. Aww, he loves your troops more than you do.",
-    "image": "https://www.deckshop.pro/img/c/HealSpirit.png"
+    "image": "/cards/HealSpirit.webp"
   },
   {
     "id": 74,
@@ -737,7 +737,7 @@
     "rarity": "Common",
     "role": "Small Spell",
     "description": "Rolls through enemies, dealing damage and slowing them down. Knockback effects based on troop size.",
-    "image": "https://www.deckshop.pro/img/c/Snowball.png"
+    "image": "/cards/GiantSnowball.webp"
   },
   {
     "id": 75,
@@ -747,7 +747,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "The King's personal pets are loose! They love to chomp on apples and towers alike.",
-    "image": "https://www.deckshop.pro/img/c/RoyalHogs.png"
+    "image": "/cards/RoyalHogs.webp"
   },
   {
     "id": 76,
@@ -757,7 +757,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "He's a one-man clan! When he charges into battle, his Spear Goblins are right behind him.",
-    "image": "https://www.deckshop.pro/img/c/GobGiant.png"
+    "image": "/cards/GoblinGiant.webp"
   },
   {
     "id": 77,
@@ -767,7 +767,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "He pulls the strongest enemy towards him with his mighty fish hook, then starts swinging his mighty anchor.",
-    "image": "https://www.deckshop.pro/img/c/Fisherman.png"
+    "image": "/cards/Fisherman.webp"
   },
   {
     "id": 78,
@@ -777,7 +777,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "He's a bit of a show-off, but his magic arrows pierce and deal less and less damage to each enemy hit.",
-    "image": "https://www.deckshop.pro/img/c/MagicArcher.png"
+    "image": "/cards/MagicArcher.webp"
   },
   {
     "id": 79,
@@ -787,7 +787,7 @@
     "rarity": "Common",
     "role": "Support",
     "description": "One Rascal Boy and two Rascal Girls make a heap of trouble for the enemy. The Boy has a slingshot, and the Girls have swords.",
-    "image": "https://www.deckshop.pro/img/c/Rascals.png"
+    "image": "/cards/Rascals.webp"
   },
   {
     "id": 80,
@@ -797,7 +797,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzap!",
-    "image": "https://www.deckshop.pro/img/c/Ghost.png"
+    "image": "/cards/RoyalGhost.webp"
   },
   {
     "id": 81,
@@ -807,7 +807,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "A fierce warrior riding a big, bad ram. Deals area damage around her target and snares enemies with her bola.",
-    "image": "https://www.deckshop.pro/img/c/RamRider.png"
+    "image": "/cards/RamRider.webp"
   },
   {
     "id": 82,
@@ -817,7 +817,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Three unarmored zap machines that deal damage and stun their target. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Zappies.png"
+    "image": "/cards/Zappies.webp"
   },
   {
     "id": 83,
@@ -827,7 +827,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "A cannon on wheels?! Bet they didn't teach you about this in history class. Once the shield is broken, it becomes a cannon building.",
-    "image": "https://www.deckshop.pro/img/c/CannonCart.png"
+    "image": "/cards/CannonCart.png"
   },
   {
     "id": 84,
@@ -837,7 +837,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "The Dwarves have mastered the art of flight... sorta. Shoots bullets that bounce between nearby enemies.",
-    "image": "https://www.deckshop.pro/img/c/FlyingMachine.png"
+    "image": "/cards/FlyingMachine.webp"
   },
   {
     "id": 85,
@@ -847,7 +847,7 @@
     "rarity": "Epic",
     "role": "Cycle",
     "description": "A pair of lightly protected Skeletons carrying a bomb. Who thought this was a good idea?!",
-    "image": "https://www.deckshop.pro/img/c/WallBreakers.png"
+    "image": "/cards/WallBreakers.webp"
   },
   {
     "id": 86,
@@ -857,7 +857,7 @@
     "role": "Support",
     "rarity": "Common",
     "description": "Drops a Royal Recruit anywhere in the Arena, plus some damage! How did he get inside that box?!",
-    "image": "https://www.deckshop.pro/img/card_ed/RoyalDelivery.png"
+    "image": "/cards/RoyalDelivery.png"
   },
   {
     "id": 87,
@@ -867,7 +867,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "A mystical fighter that heals nearby friendly troops, while damaging nearby enemies!",
-    "image": "https://www.deckshop.pro/img/c/BattleHealer.png"
+    "image": "/cards/BattleHealer.webp"
   },
   {
     "id": 88,
@@ -877,7 +877,7 @@
     "rarity": "Common",
     "role": "Splash Damage",
     "description": "Two undead dragons deal area damage from above! They're pretty fly... for dead guys.",
-    "image": "https://www.deckshop.pro/img/c/SkeletonDragons.png"
+    "image": "/cards/SkeletonDragons.png"
   },
   {
     "id": 89,
@@ -887,7 +887,7 @@
     "rarity": "Epic",
     "role": "Splash Damage",
     "description": "Attacks hit up to 3 enemies with a chain of lightning! Reduced damage to secondary targets.",
-    "image": "https://www.deckshop.pro/img/c/eDragon.png"
+    "image": "/cards/ElectroDragon.webp"
   },
   {
     "id": 90,
@@ -897,7 +897,7 @@
     "rarity": "Common",
     "role": "Splash Damage",
     "description": "She's small, fast and packs a punch. Her cannonballs deal area damage from long range!",
-    "image": "https://www.deckshop.pro/img/c/Firecracker.png"
+    "image": "/cards/Firecracker.webp"
   },
   {
     "id": 91,
@@ -907,7 +907,7 @@
     "rarity": "Rare",
     "role": "Small Spell",
     "description": "Deals massive damage to buildings over time and slows troops down. Don't look down!",
-    "image": "https://www.deckshop.pro/img/c/Earthquake.png"
+    "image": "/cards/Earthquake.webp"
   },
   {
     "id": 92,
@@ -917,7 +917,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "A Goblin Brawler is locked up in this iron cage! Once broken, he becomes VERY angry!",
-    "image": "https://www.deckshop.pro/img/c/GoblinCage.png"
+    "image": "/cards/GoblinCage.webp"
   },
   {
     "id": 93,
@@ -927,7 +927,7 @@
     "rarity": "Rare",
     "role": "Support",
     "description": "Tanky, slow and splits into two Elixir Golemites when destroyed! When they're destroyed, they give the enemy Elixir. It's like a Gift Card for mayhem!",
-    "image": "https://www.deckshop.pro/img/c/ElixirGolem.png"
+    "image": "/cards/ElixirGolem.webp"
   },
   {
     "id": 94,
@@ -937,7 +937,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "He deal damage just by being near enemies! His Zap Pack stuns and deals damage in a large area around him.",
-    "image": "https://www.deckshop.pro/img/c/ElectroGiant.png"
+    "image": "/cards/ElectroGiant.webp"
   },
   {
     "id": 95,
@@ -947,7 +947,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "Spawns one lively little Electro Spirit to zap and stun enemies.",
-    "image": "https://www.deckshop.pro/img/c/ElectroSpirit.png"
+    "image": "/cards/ElectroSpirit.webp"
   },
   {
     "id": 96,
@@ -957,7 +957,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "Casts a spell that transforms enemy troops into Cursed Hogs! Cursed Hogs deal area damage when defeated.",
-    "image": "https://www.deckshop.pro/img/c/MotherWitch.png"
+    "image": "/cards/MotherWitch.webp"
   },
   {
     "id": 97,
@@ -967,7 +967,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Tunnel anywhere and drill up, dealing damage! Then spawn Goblins behind enemy lines.",
-    "image": "https://www.deckshop.pro/img/c/GoblinDrill.png"
+    "image": "/cards/GoblinDrill.png"
   },
   {
     "id": 98,
@@ -977,7 +977,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "A master swordsman with the ability to dash through enemies, dealing damage along the way.",
-    "image": "https://www.deckshop.pro/img/c/GoldenKnight.png"
+    "image": "/cards/GoldenKnight.webp"
   },
   {
     "id": 99,
@@ -987,7 +987,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "The Archer Queen summons a handful of Archers to fight, and while ability is active, she goes invisible!",
-    "image": "https://www.deckshop.pro/img/c/ArcherQueen.png"
+    "image": "/cards/ArcherQueen.png"
   },
   {
     "id": 100,
@@ -997,7 +997,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "The Skeleton King summons an army of Skeletons to fight by his side! Spooky!",
-    "image": "https://www.deckshop.pro/img/c/SkeletonKing.png"
+    "image": "/cards/SkeletonKing.webp"
   },
   {
     "id": 101,
@@ -1007,7 +1007,7 @@
     "rarity": "Common",
     "role": "Win Condition",
     "description": "Deploys six mini soldiers across the arena to defend or attack.",
-    "image": "https://www.deckshop.pro/img/c/RoyalRecruits.png"
+    "image": "/cards/RoyalRecruits.png"
   },
   {
     "id": 102,
@@ -1017,7 +1017,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Spawns Fire Spirits periodically to attack enemy troops and buildings.",
-    "image": "https://www.deckshop.pro/img/c/Furnace.png"
+    "image": "/cards/Furnace.webp"
   },
   {
     "id": 103,
@@ -1027,7 +1027,7 @@
     "rarity": "Legendary",
     "role": "Win Condition",
     "description": "Jumps into battle and deals massive area damage on landing.",
-    "image": "https://www.deckshop.pro/img/c/MegaKnight.png"
+    "image": "/cards/MegaKnight.webp"
   },
   {
     "id": 104,
@@ -1037,7 +1037,7 @@
     "rarity": "Epic",
     "role": "Support",
     "description": "Floats in the air and drops Skeletons on enemy targets.",
-    "image": "https://www.deckshop.pro/img/c/SkellyBarrel.png"
+    "image": "/cards/SkeletonBarrel.webp"
   },
   {
     "id": 105,
@@ -1047,7 +1047,7 @@
     "rarity": "Common",
     "role": "Win Condition",
     "description": "Defensive building with a long range. Shoots big boulders that deal area damage, but cannot hit targets that get very close!",
-    "image": "https://www.deckshop.pro/img/c/Mortar.png"
+    "image": "/cards/Mortar.webp"
   },
   {
     "id": 106,
@@ -1057,7 +1057,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from this side of the Arena...",
-    "image": "https://www.deckshop.pro/img/c/XBow.png"
+    "image": "/cards/X-bow.webp"
   },
   {
     "id": 107,
@@ -1067,7 +1067,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "You gotta spend Elixir to make Elixir! This building makes 8 Elixir over its Lifetime. Does not appear in your starting hand.",
-    "image": "https://www.deckshop.pro/img/c/Pump.png"
+    "image": "/cards/ElixirCollector.webp"
   },
   {
     "id": 108,
@@ -1077,7 +1077,7 @@
     "rarity": "Rare",
     "role": "Building",
     "description": "Defensive building that spawns Spear Goblins when enemies are in range. Don't look inside... you don't want to see how they're made.",
-    "image": "https://www.deckshop.pro/img/c/GobHut.png"
+    "image": "/cards/GoblinHut.webp"
   },
   {
     "id": 109,
@@ -1087,7 +1087,7 @@
     "rarity": "Legendary",
     "role": "Support",
     "description": "This mystical creature will be reborn as an egg when destroyed. If it hatches, it returns to the fight! What an egg-cellent ability. Being born again is tiring, so a hatched Phoenix will have slightly less Hitpoints and Damage (80% of its total).",
-    "image": "https://www.deckshop.pro/img/c/Phoenix.png"
+    "image": "/cards/Phoenix.webp"
   },
   {
     "id": 110,
@@ -1097,7 +1097,7 @@
     "rarity": "Epic",
     "role": "Small Spell",
     "description": "And thrice were their afflictions... nixed, vexed, and hexed! Enemy troops in the area will receive extra damage from attacks and become Goblins when destroyed. Deals damage to enemies over time.",
-    "image": "https://www.deckshop.pro/img/c/GoblinCurse.png"
+    "image": "/cards/GoblinCurse.webp"
   },
   {
     "id": 111,
@@ -1107,7 +1107,7 @@
     "rarity": "Epic",
     "role": "Small Spell",
     "description": "Creates a field of dark magic damaging all enemy troop and buildings within. More damage is dealt when fewer targets are on its area. Reduced damage to Crown Towers.",
-    "image": "https://www.deckshop.pro/img/c/Void.png"
+    "image": "/cards/Void.webp"
   },
   {
     "id": 112,
@@ -1117,7 +1117,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "Who let their nephew into the Arena?! This mischievous Royal gains Hit Speed when firing, as long as he stands still! He may look weak, but he's always being watched over from afar...",
-    "image": "https://www.deckshop.pro/img/c/LittlePrince.png"
+    "image": "/cards/LittlePrince.webp"
   },
   {
     "id": 113,
@@ -1127,7 +1127,7 @@
     "rarity": "Rare",
     "role": "Cycle",
     "description": "This invisible bush skulks towards the nearest building. Sus. If Suspicious Bush reaches its target or gets destroyed by a spell, it surprises the enemy with Bush Goblins!",
-    "image": "https://www.deckshop.pro/img/c/SuspiciousBush.png"
+    "image": "/cards/SuspiciousBush.webp"
   },
   {
     "id": 114,
@@ -1137,7 +1137,7 @@
     "rarity": "Common",
     "role": "Cycle",
     "description": "It's surprising how often she needs her axes sharpened, but then again, if you liked hitting things as fast as her, so would you.",
-    "image": "https://www.deckshop.pro/img/c/Berserker.png"
+    "image": "/cards/Berserker.webp"
   },
   {
     "id": 115,
@@ -1147,7 +1147,7 @@
     "rarity": "Champion",
     "role": "Win Condition",
     "description": "The boss of the Forest Gang finally shows her face...kind of. Boss Bandit dashes to her targets and is invulnerable while dashing. When things get tough, her pair of grenades are at the ready.",
-    "image": "https://www.deckshop.pro/img/c/BossBandit.png"
+    "image": "/cards/BossBandit.webp"
   },
   {
     "id": 116,
@@ -1157,7 +1157,7 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
-    "image": "https://www.deckshop.pro/img/c/GiantSkelly.png"
+    "image": "/cards/GiantSkeleton.webp"
   },
   {
     "id": 117,
@@ -1167,7 +1167,7 @@
     "rarity": "Rare",
     "role": "Splash Damage",
     "description": "Boom goes dynamite! Goblin Demolisher deals area damage and explodes on death. At low health, he charges towards the nearest building.",
-    "image": "https://www.deckshop.pro/img/c/GoblinDemolisher.png"
+    "image": "/cards/GoblinDemolisher.webp"
   },
   {
     "id": 118,
@@ -1177,7 +1177,7 @@
     "rarity": "Legendary",
     "role": "Splash Damage",
     "description": "Goblin Machine has two arms for melee and one big rocket for faraway targets. Who let a baby drive this thing?",
-    "image": "https://www.deckshop.pro/img/c/GoblinMachine.png"
+    "image": "/cards/GoblinMachine.webp"
   },
   {
     "id": 119,
@@ -1187,7 +1187,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "It’s ALIVE! Monster lumbers towards enemy buildings while Doctor waits to spring the trap. At the press of a button, Doctor electrifies the link between himself and Monster, frying nearby enemies!",
-    "image": "https://www.deckshop.pro/img/c/Goblinstein.png"
+    "image": "/cards/Goblinstein.webp"
   },
   {
     "id": 120,
@@ -1197,7 +1197,7 @@
     "rarity": "Champion",
     "role": "Support",
     "description": "Walk softly... and carry a big drill! This Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans. This makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
-    "image": "https://www.deckshop.pro/img/c/MightyMiner.png"
+    "image": "/cards/MightyMiner.webp"
   },
   {
     "id": 121,
@@ -1207,6 +1207,6 @@
     "rarity": "Epic",
     "role": "Win Condition",
     "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
-    "image": "https://www.deckshop.pro/img/c/Golem.png"
+    "image": "/cards/Golem.webp"
   }
 ]
